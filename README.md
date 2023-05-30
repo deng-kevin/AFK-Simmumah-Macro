@@ -29,8 +29,9 @@ F1 - Open Character Screen
 
 LMB - Shoot
 
-Instructions:
+_____________________________
 
+Instructions:
 
 When spawning in, dump all of your heavy weapon or leave 1 shot for a rocket or grenade launcher to kill yourself.
 
