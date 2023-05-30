@@ -28,11 +28,15 @@ So now we can start to recieve magic ammo again.
 
 How to setup the macro?
 F7 - Start the Macro
+
 F8 - Reload the Macro
+
 F9 - Stop the Macro
 
 Keybinds needed:
+
 F1 - Open Character Screen
+
 LMB - Shoot
 
 When spawning in, dump all of your heavy weapon or leave 1 shot for a rocket or grenade launcher to kill yourself
