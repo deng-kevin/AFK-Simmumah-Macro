@@ -60,7 +60,7 @@ ________________________________________________________________________________
 How does the Macro work?
 
 The macro will shoot the Witherhoard every 8 seconds
-After 4 witherhoard shots, 8 seconds each, the macro will swap your energy weapon with the first weapon in the energy slot inventory, then swap back to the previously equipped special weapon.
+After 4 witherhoard shots, 8 seconds each for a total of 32 seconds, the macro will swap your energy weapon with the first weapon in the energy slot inventory, then swap back to the previously equipped special weapon.
 The macro will then continue looping until the macro has been stopped or reloaded.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
