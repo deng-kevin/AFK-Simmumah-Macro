@@ -3,15 +3,15 @@ For Destiny 2's Ghosts of the Deep Dungeon
 
 Prerequisites:
 
-Simmumah Checkpoint.
+1- Simmumah Checkpoint.
 
-Witherhoard.
+2 - Witherhoard.
 
-A friend to revive you.
+3 - A friend to revive you.
 
-An energy weapon with primary ammo in the 1st slot.
+4 - An energy weapon with primary ammo in the 1st slot.
 
-An energy weapon with special ammo equipped.
+5 - An energy weapon with special ammo equipped.
 
 How does the Simmumah Cheese work?
 
@@ -47,10 +47,15 @@ F1 - Open Character Screen
 LMB - Shoot
 
 When spawning in, dump all of your heavy weapon or leave 1 shot for a rocket or grenade launcher to kill yourself.
+
 Apply the first Witherhoard shot and die.
+
 When revived, shoot another Witherhoard shot to refresh the timer.
-Stand underneath Simmumah and look perfectly straight up..
+
+Stand underneath Simmumah and look perfectly straight up.
+
 Line yourself up for where the Witherhoard reticle lines line up with Simmumah.
+
 Start the macro.
 _____________________________________________________________________________________________________________________
 
