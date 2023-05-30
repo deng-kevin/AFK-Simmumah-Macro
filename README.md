@@ -56,20 +56,25 @@ If you have no heavy ammo, no special ammo in your energy slot, and have 12 or l
 To continue recieving ammo magically, you'll need to empty your energy special weapon to 0.
 The witherhoard will stop to recieve ammo at 17 ammo.
 
+_
 How does the Macro work?
 
 The macro will shoot the Witherhoard every 8 seconds
 After 4 witherhoard shots, 8 seconds each, the macro will swap your energy weapon with the first weapon in the energy slot inventory, then swap back to the previously equipped special weapon.
 The macro will then continue looping until the macro has been stopped or reloaded.
 
+_
 Why does the Macro work?
+
 In order to automate this, the problems that needed to be solved is being able to shoot the witherhoard at Simmumah with 100% consistency. Sometimes Simmumah will float up and down making consistent shots from a far away distance inconsistent. 
 Therefore, this is solved by standing directly underneath Simmumah and looking completely up until there is no more. This has the added benefit of no recoil because we are looking perfectly up.
 
 We need the special energy weapon to have 0 ammo to continue recieving magic ammo. If we just shot the ammo out of the special ammo, I would need to take into consideration recoil. By swapping the special weapon to a weapon that takes primary ammo then back to the special ammo, we will no longer have special ammo. 
 So now we can start to recieve magic ammo again.
 
+_
 How to get the cheese done faster?
+
 Apply the Strand Warlock charged melee with your first Witherhoard shot before you die. This will apply Sever and have strand things do damage alongside the Witherhoard.
 Have other fireteam members apply a debuff to Simmumah using Tractor Cannon, Tether, Void Hunter Smoke, Void Hunter Quickfall, or other debuffs.
 Have other fireteam members apply a buff to you using Boots of the Assembler to give you Blessing of the Sky, Generate Orbs of Power so you can have Kinetic Weapon Surge, or other player buffs.
