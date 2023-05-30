@@ -4,9 +4,13 @@ For Destiny 2's Ghosts of the Deep Dungeon
 Prerequisites:
 
 Simmumah Checkpoint.
+
 Witherhoard.
+
 A friend to revive you.
+
 An energy weapon with primary ammo in the 1st slot.
+
 An energy weapon with special ammo equipped.
 
 How does the Simmumah Cheese work?
