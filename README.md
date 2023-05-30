@@ -23,7 +23,7 @@ F8 - Reload the Macro
 
 F9 - Stop the Macro
 
-Keybinds needed:
+What Keybinds are needed:
 
 F1 - Open Character Screen
 
@@ -42,6 +42,8 @@ Stand underneath Simmumah and look perfectly straight up.
 
 Line yourself up for where the Witherhoard reticle lines line up with Simmumah.
 
+Empty your energy weapon's special ammo
+
 Start the macro.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -51,6 +53,7 @@ How does the Simmumah Cheese work?
 If you shoot a witherhoard at Simmumah then die, it'll do damage against Simmumah as long as the Damage over time is refreshed by shooting another Witherhoard shot at Simmumah before the 10 second Witherhoard shot timer.
 If you have no heavy ammo, no special ammo in your energy slot, and have 12 or less Witherhoard ammo, the game will start a 30 second timer. If the criteria is met, the game will give you 5 witherhoard ammo and like 1/4 of the max amount of special ammo your energy weapon can hold.
 To continue recieving ammo magically, you'll need to empty your energy special weapon to 0.
+The witherhoard will stop to recieve ammo at 17 ammo.
 
 How does the Macro work?
 
