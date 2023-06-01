@@ -14,21 +14,23 @@ For Destiny 2's Ghosts of the Deep Dungeon
 5 - An energy weapon with special ammo equipped.
 
 # Installation
+# How to download?
+
+ 1. Go to "Releases" and download the latest version of the zip file.
+
+ 2. Use Window's Built-In extraction tool or 7-zip or Winrar to extract the zip file.
+ 
+ 3. Open the extracted folder and all the folders/files needed will be in there.
+ 
+ 4. You will also need to install Auto Hotkey
+
 # How to setup the KBM Macro?
-How to Install the zip file.
 
-ㅤ1. Install the latest release of the AFK Simmumah Macro
+ㅤ1. Go to the AFK Simmumah Folder
 
-ㅤ2. Open the zip file and all the folders that you need should be in there
+ㅤ2. Open the file named "AFK Simmumah KBM.ahk" to launch Autohotkey with the macro opened.
 
-Once everything is installed you can open the Macro folder and start using the afk scripts. You can skip the X360 Macro setup if you don't plan to use it.
-
-# How to setup the X360 Macros?
-How to Install the zip file.
-
-ㅤ1. Install the latest release of the AFK Simmumah Macro
-
-ㅤ2. Open the zip file and all the folders that you need should be in there
+  3. You can skip installing ViGEmBus and the AHK Library if you don't plan on using the X360 Macros (It does not matter if you use Playstation or Xbox controller, the emulated controller will be the Xbox)
 
 How to install VIGEmBus for a emulated controller.
 
@@ -36,15 +38,15 @@ How to install VIGEmBus for a emulated controller.
 
 ㅤ2. There should be an exe in there which you need to run to install VIGEmBus
 
-ㅤ3. Once you have installed everything restart your pc
+ㅤ3. Once it is installed, restart your pc
 
-How to install AHK Library.
+How to install the AHK Library.
 
- 1. Go to AHK Download Directory Normally Default install is at **(C:\Program Files\AutoHotkey)**
+ 1. Go to AHK Download Directory. Normally, the default install is at **(C:\Program Files\AutoHotkey)**
 
- 2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
+ 2. Once you have the AHK Directory open. In File explorer, drag and drop the Lib Folder into the AHK Install Directory
 
-Once everything is installed you can open the Macro folder and start using the afk scripts.
+Once everything is installed you can open the AFK Simmumah Macro folder and start using the afk ahk scripts.
 
 If you have any questions ask ***DengKevin#2947*** on Discord.
 
