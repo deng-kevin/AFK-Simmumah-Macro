@@ -40,7 +40,7 @@ How to install VIGEmBus for a emulated controller.
 
 How to install AHK Library.
 
- 1. Go to AHK Download Directory Normally Default install is at (C:\Program Files\AutoHotkey)
+ 1. Go to AHK Download Directory Normally Default install is at **(C:\Program Files\AutoHotkey)**
 
  2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
