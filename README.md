@@ -13,6 +13,7 @@ For Destiny 2's Ghosts of the Deep Dungeon
 
 5 - An energy weapon with special ammo equipped.
 
+# Installation
 # How to setup the KBM Macro?
 How to Install the zip file.
 
@@ -44,6 +45,8 @@ How to install AHK Library.
  2. Once you have the AHK Directory open in File explorer drag and drop the Lib Folder into the AHK Install Directory
 
 Once everything is installed you can open the Macro folder and start using the afk scripts.
+
+# If you have any questions ask DengKevin#2947 on Discord.
 
 # PC Keybinds
 
@@ -91,7 +94,7 @@ The witherhoard will stop to recieve ammo at 17 ammo.
 
 # How does the Macro work?
 
-The macro will shoot the Witherhoard every 8 seconds
+The macro will shoot the Witherhoard every 8 seconds.
 After 4 witherhoard shots, 8 seconds each for a total of 32 seconds, the macro will swap your energy weapon with the first weapon in the energy slot inventory, then swap back to the previously equipped special weapon.
 The macro will then continue looping until the macro has been stopped or reloaded.
 
@@ -118,6 +121,11 @@ ________________________________________________________________________________
 
 # Future ideas:
 ~~Have the macro use commands from an emulated controller, so that the user can Alt-Tab out and continue using their PC.~~
-I could add things like empowering rift and well or other class abilities, but that would depend on stat values of recovery/intellect/strength, so it would not work for everyone
+I could add things like empowering rift and well or other class abilities, but that would depend on stat values of recovery/intellect/strength, so it would not work for everyone.
 
-# If you have any questions or have a request, message DengKevin#2947 on Discord.
+If you want more macros or have any new ideas DM DengKevin#2947 on Discord about it and I will see if I can do it and update the github with it.
+
+# Credit
+ViGEmBus is available here for more info: https://github.com/ViGEm/ViGEmBus
+
+Credit to EvilC for making the ViGEm wrapper for AHK: https://github.com/evilC/AHK-ViGEm-Bus
