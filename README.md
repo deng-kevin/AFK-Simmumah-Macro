@@ -46,7 +46,7 @@ How to install AHK Library.
 
 Once everything is installed you can open the Macro folder and start using the afk scripts.
 
-If you have any questions ask DengKevin#2947 on Discord.
+If you have any questions ask ***DengKevin#2947*** on Discord.
 
 # PC Keybinds
 
@@ -124,7 +124,7 @@ ________________________________________________________________________________
 
 I could add things like empowering rift and well or other class abilities, but that would depend on stat values of recovery/intellect/strength, so it would not work for everyone.
 
-If you want more macros or have any new ideas DM DengKevin#2947 on Discord about it and I will see if I can do it and update the github with it.
+If you want more macros or have any new ideas DM ***DengKevin#2947*** on Discord about it and I will see if I can do it and update the github with it.
 
 # Credit
 ViGEmBus is available here for more info: https://github.com/ViGEm/ViGEmBus
