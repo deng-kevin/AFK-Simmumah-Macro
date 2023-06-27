@@ -1,6 +1,8 @@
 # AFK-Simmumah-Macro
 For Destiny 2's Ghosts of the Deep Dungeon
 
+##THE CHEESE HAS BEEN PATCHED | THE MACRO IS NO LONGER WORKING 
+
 # Prerequisites:
 
 1- Simmumah Checkpoint.
