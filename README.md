@@ -50,7 +50,7 @@ How to install the AHK Library.
 
 Once everything is installed you can open the AFK Simmumah Macro folder and start using the afk ahk scripts.
 
-If you have any questions ask ***DengKevin#2947*** on Discord.
+
 
 # PC Keybinds
 
@@ -132,14 +132,6 @@ Only Witherhoard can take 10 minutes on normal, 20-25 min on Master.
 With debuffs and buffs, it can be reduced to 6-7 min on normal, 8-10 min on Master.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-# Future ideas:
-~~Have the macro use commands from an emulated controller, so that the user can Alt-Tab out and continue using their PC.~~
-
-I could add things like empowering rift and well or other class abilities, but that would depend on stat values of recovery/intellect/strength, so it would not work for everyone.
-
-If you want more macros or have any new ideas DM ***DengKevin#2947*** on Discord about it and I will see if I can do it and update the github with it.
-
 # Credit
 ViGEmBus is available here for more info: https://github.com/ViGEm/ViGEmBus
 
